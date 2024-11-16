@@ -9,7 +9,7 @@ export default function Header() {
         <div className="container">
           {/* 왼쪽 학번 및 이름 */}
           <div className="navbar-brand">
-            <span className="navbar-text">22300726 Hajin Cho</span>
+            <span className="navbar-text">Students Info</span>
           </div>
           
           {/* 오른쪽 네비게이션 메뉴 */}
